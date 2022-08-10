@@ -8,11 +8,11 @@ Neste repositório você irá encontrar duas pastas. A primeira se chama FizzBuz
 Nela, também disponibilizaremos a resolução do Fizzbuzz em Java e JUnit.
 A segunda pasta se chama Calculadora e é nela que você vai focar.
 
-##Utilizando TDD
+## Utilizando TDD
 
-Crie uma classe chamada Calculadora;
-Crie os métodos: soma, subtração, multiplicação e divisão;
-Usem a criatividade e criem um último método que utilize pelo menos dois dos métodos criados anteriormente.
-Isso é tudo pessoal 🎉
+- Crie uma classe chamada Calculadora;
+- Crie os métodos: soma, subtração, multiplicação e divisão;
+- Usem a criatividade e criem um último método que utilize pelo menos dois dos métodos criados anteriormente.
+- Isso é tudo pessoal 🎉
 
 
